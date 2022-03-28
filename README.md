@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project is a React.js starter using Typescript + Storybook
 
+### ESLint & Prettier
+I have my recommended settings!
+
 ## Demo
 
 ## Usage
@@ -26,3 +29,8 @@ Launched at http://localhost:3000
 yarn storybook
 ```
 Launched at http://localhost:6006
+
+## Author
+HirosueAkari
+
+Check it!! → https://github.com/HirosueAkari/
