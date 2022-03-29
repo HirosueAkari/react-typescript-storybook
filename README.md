@@ -1,17 +1,23 @@
 # react-typescript-storybook
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![React.js](https://img.shields.io/badge/-React-555.svg?logo=react&style=flat)
+![Typescript](https://img.shields.io/badge/-TypeScript-555.svg?logo=typescript&style=flat)
+![Typescript](https://img.shields.io/badge/-Storybook-555.svg?logo=storybook&style=flat)
 
-## Project Overview
 
-This project is a React.js starter using Typescript + Storybook
+## Overview
+
+This project is a React.js starter using Typescript + Storybook:sparkles:
 
 ### ESLint & Prettier
-I have my recommended settings!
-
-## Demo
+My recommended settings!:fire:
 
 ## Usage
+Please clone this project
+```
+git clone https://github.com/HirosueAkari/react-typescript-storybook.git
+cd react-typescript-storybook
+```
 
 First of all do the following
 ```
@@ -33,4 +39,4 @@ Launched at http://localhost:6006
 ## Author
 HirosueAkari
 
-Check it!! → https://github.com/HirosueAkari/
+Check it!!:sparkles: → https://github.com/HirosueAkari/
